@@ -372,7 +372,7 @@ export const translations: Record<Locale, Record<string, unknown>> = {
       ],
     },
     privacy: {
-      title: "As palavras são suas. Garantia sua Privacidade é o nosso compromisso ético.",
+      title: "As palavras são suas. Garantir sua Privacidade é o nosso compromisso ético.",
       subtitle:
         "Construímos o sistema de forma que tecnicamente não podemos acessar suas conversas. Veja como.",
       guarantees: [
